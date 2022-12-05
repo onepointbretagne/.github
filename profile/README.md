@@ -3,7 +3,7 @@
 
 Bienvenue sur le coding challenge de Onepoint Bretagne
 
-> **DISCLAIMER** : Ce coding challenge est encore en cours d'élaboration. Si vous voulez quelque chose d'étrange, n'hésitez pas à nous en parler directement pour éclaircir le sujet. Le but n'est bien sûr ni de vous piéger ni de vous demander quelque chose d'impossible à réaliser dans le temps imparti.
+> **DISCLAIMER** : Ce coding challenge est encore en cours d'élaboration. Si vous voyez quelque chose d'étrange, n'hésitez pas à nous en parler directement pour éclaircir le sujet. Le but n'est bien sûr ni de vous piéger ni de vous demander quelque chose d'impossible à réaliser dans le temps imparti.
 
 ## Principe
 
