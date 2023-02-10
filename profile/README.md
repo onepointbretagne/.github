@@ -13,7 +13,7 @@ L'idée étant de passer au maximum une demi-journée à coder pour nous montrer
 
 Dans la section "repositories", vous devriez voir des repositories git avec un front et/ou un back en fonction de vos compétences.
 
-> Les projets sont préfoxés avec votre nom. Ce sont les projets dans lesquels vous devez développer.
+> Les projets sont préfixés avec votre nom. Ce sont les projets dans lesquels vous devez développer.
 
 Pour savoir quoi faire, il faut se rendre dans la section "Projects" pour choisir, vous-même, les tickets que vous voulez implémenter.
 Ces tickets ne peuvent pas (et ne doivent pas être modifiés), ils vous servent juste de "spécifications".
