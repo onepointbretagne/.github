@@ -20,13 +20,18 @@ Ces tickets ne peuvent pas (et ne doivent pas être modifiés), ils vous servent
 
 **Soit vous avez un profil de développement** :
 > dans ce cas, il faut piocher dans ce projet :
-[Development Coding Challenge Backlog](https://github.com/orgs/onepointbretagne/projects/1/views/1)
+[Development Coding Challenge Backlog](https://github.com/orgs/onepointbretagne/projects/1/views/1?visibleFields=%5B%22Title%22%2C15261212%2C15261287%5D)
 
 Choisissez à minima, un correctif et une évolution (voire plus si vous pouvez, dans la cadre d'une demi-journée de codage).
 
 **Soit vous avez un profil DevOps** :
 > dans ce cas, il faut piocher dans ce projet :
-[Devops Coding Challenge Backlog](https://github.com/orgs/onepointbretagne/projects/2/views/1)
+[Devops Coding Challenge Backlog](https://github.com/orgs/onepointbretagne/projects/2/views/1?visibleFields=%5B%22Title%22%2C34862914%5D)
+
+
+**Soit vous avez un profil de développementn de flux d'échange** :
+> dans ce cas, il faut piocher dans ce projet :
+[Flux Coding Challenge Backlog](https://github.com/orgs/onepointbretagne/projects/3/views/1?visibleFields=%5B%22Title%22%2C34860479%5D)
 
 ## Soutenance
 
