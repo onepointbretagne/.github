@@ -28,10 +28,11 @@ Choisissez, a minima, un correctif et une évolution (voire plus si vous le pouv
 > dans ce cas, il faut piocher dans ce projet :
 [Devops Coding Challenge Backlog](https://github.com/orgs/onepointbretagne/projects/2/views/1?visibleFields=%5B%22Title%22%2C34862914%5D)
 
-
 **Soit vous avez un profil de développement de flux d'échange** :
 > dans ce cas, il faut piocher dans ce projet :
 [Flux Coding Challenge Backlog](https://github.com/orgs/onepointbretagne/projects/3/views/1?visibleFields=%5B%22Title%22%2C34860479%5D)
+
+Choisissez, a minima, un correctif et une évolution (voire plus si vous le pouvez/souhaitez, dans le cadre d'une demi-journée de codage).
 
 ## Restitution
 
